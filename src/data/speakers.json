@@ -56,39 +56,6 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/WhatsApp%20Image%202020-10-06%20at%2010.05.34%20AM.jpeg",
-      "speaker_name": "Hansy Schmitt",
-      "speaker_desc": "Mobile Engineer",
-      "speaker_session": "",
-      "fb_url": "none",
-      "github_url": "https://github.com/hschmitt",
-      "linkedin_url": "https://linkedin.com/in/hansy-schmitt-camacho-a152329",
-      "twitter_url": "none",
-      "modality": "in person"
-    },
-    {
-      "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/elvisCapia.jpg",
-      "speaker_name": "Elvis Capia Quispe",
-      "speaker_desc": "Software Engineer at Google",
-      "speaker_session": "",
-      "fb_url": "None",
-      "github_url": "None",
-      "linkedin_url": "https://www.linkedin.com/in/ecapia/",
-      "twitter_url": "None",
-      "modality": "remote"
-    },
-    {
-      "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/alvaro%20huanca.jpg",
-      "speaker_name": "Alvaro Huanca",
-      "speaker_desc": "Google Developer Expert",
-      "speaker_session": "",
-      "fb_url": "None",
-      "github_url": "https://github.com/AlvarDev",
-      "linkedin_url": "https://www.linkedin.com/in/alvardev/?originalSubdomain=br",
-      "twitter_url": "https://twitter.com/AlvarDev",
-      "modality": "remote"
-    },
-    {
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/carlo-huaman.jpg",
       "speaker_name": "Carlo Huamán",
       "speaker_desc": "Arquitecto Mobile",
@@ -97,17 +64,6 @@
       "github_url": "None",
       "linkedin_url": "https://www.linkedin.com/in/tohure/?originalSubdomain=pe",
       "twitter_url": "None",
-      "modality": "in person"
-    },
-    {
-      "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/featured_attendees/WhatsApp%20Image%202020-05-24%20at%2022.05.05.jpeg",
-      "speaker_name": "Aarón Guerrero",
-      "speaker_desc": "Cloud Developer",
-      "speaker_session": "",
-      "fb_url": "None",
-      "github_url": "None",
-      "linkedin_url": "None",
-      "twitter_url": "https://twitter.com/aaronthewarrior",
       "modality": "in person"
     },
     {
