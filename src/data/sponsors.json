@@ -1,0 +1,59 @@
+{
+  "sponsors": [
+    {
+      "name": "GDG",
+      "link": "https://gdg.community.dev/gdg-ica/",
+      "image": "https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png"
+    },
+    {
+      "name": "Google",
+      "link": "https://www.google.com/",
+      "image": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/",
+      "image": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    },
+    {
+      "name": "DMC",
+      "link": "https://dmc.pe/",
+      "image": "../../public/sponsors/DMC.png"
+    },
+    {
+      "name": "CCITI",
+      "link": "https://camaraica.org.pe/",
+      "image": "../../public/sponsors/camara_comercio.png"
+    },
+    {
+      "name": "Systematic",
+      "link": "https://systematic.edu.pe/",
+      "image": "../../public/sponsors/systematic.jpg"
+    }, 
+    {
+      "name": "Peñonetti",
+      "link": "https://www.facebook.com/PenonettiPizzeria/",
+      "image": "../../public/sponsors/peñotti.png"
+    },
+    {
+      "name": "CompuPlanet",
+      "link": "https://www.facebook.com/Compuplanetica/",
+      "image": "../../public/sponsors/compuplanet.png"
+    },
+    {
+      "name": "JCM",
+      "link": "http://consultardocumentos.jcm.com.pe",
+      "image": "../../public/sponsors/jcm.png"
+    }, 
+    {
+      "name": "Geunica",
+      "link": "https://www.facebook.com/academiageunica",
+      "image": "../../public/sponsors/Geunica.png"
+    },
+    {
+      "name": "Raul Salgado Asociados",
+      "link": "https://www.facebook.com/salgadoyasociados2",
+      "image": "../../public/sponsors/raul_salgado.jpg"
+    }
+  ]
+}
