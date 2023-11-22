@@ -18,42 +18,47 @@
     {
       "name": "DMC",
       "link": "https://dmc.pe/",
-      "image": "../../public/sponsors/DMC.png"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/DMC.png?raw=true"
+    },
+    {
+      "name": "Data&Analytics",
+      "link": "https://datayanalytics.com/",
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/data_y_analitics.jpg?raw=true"
     },
     {
       "name": "CCITI",
       "link": "https://camaraica.org.pe/",
-      "image": "../../public/sponsors/camara_comercio.png"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/camara_comercio.png?raw=true"
     },
     {
       "name": "Systematic",
       "link": "https://systematic.edu.pe/",
-      "image": "../../public/sponsors/systematic.jpg"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/systematic.jpg?raw=true"
     }, 
     {
       "name": "Peñonetti",
       "link": "https://www.facebook.com/PenonettiPizzeria/",
-      "image": "../../public/sponsors/peñotti.png"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/pe%C3%B1otti.png?raw=true"
     },
     {
       "name": "CompuPlanet",
       "link": "https://www.facebook.com/Compuplanetica/",
-      "image": "../../public/sponsors/compuplanet.png"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/compuplanet.png?raw=true"
     },
     {
       "name": "JCM",
       "link": "http://consultardocumentos.jcm.com.pe",
-      "image": "../../public/sponsors/jcm.png"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/jcm.png?raw=true"
     }, 
     {
       "name": "Geunica",
-      "link": "https://www.facebook.com/academiageunica",
-      "image": "../../public/sponsors/Geunica.png"
+      "link": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/DMC.png?raw=true",
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/Geunica.png?raw=true"
     },
     {
       "name": "Raul Salgado Asociados",
       "link": "https://www.facebook.com/salgadoyasociados2",
-      "image": "../../public/sponsors/raul_salgado.jpg"
+      "image": "https://github.com/aalvaropc/DevFestIcaW/blob/main/public/sponsors/raul_salgado.jpg?raw=true"
     }
   ]
 }
