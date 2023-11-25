@@ -111,7 +111,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "/public/speakers/fahed_hermoza.png",
+      "speaker_image": "./speakers/fahed_hermoza.png",
       "speaker_name": "Fahed Hermoza",
       "speaker_desc": "Senior Android Engineer",
       "speaker_session": "",
@@ -122,7 +122,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "/public/speakers/mayra_rodriguez.jpg",
+      "speaker_image": "./speakers/mayra_rodriguez.jpg",
       "speaker_name": "Mayra Rodriguez",
       "speaker_desc": "Senior Software Engineer",
       "speaker_session": "",
