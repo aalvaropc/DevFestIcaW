@@ -89,7 +89,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "/public/speakers/luis_landa.png",
+      "speaker_image": "../../public/speakers/luis_landa.png",
       "speaker_name": "Luis Landa Girón",
       "speaker_desc": "SAFe Scrum Master",
       "speaker_session": "",
