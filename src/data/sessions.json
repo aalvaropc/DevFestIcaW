@@ -72,7 +72,7 @@
       "session_total_time": "30 Mins",
       "session_title": "IMAGINA QUE TU YO DEL FUTURO VIENE AL 2023 ¿QUÉ TE DIRÍA?",
       "session_desc": "",
-      "speaker_image": "/public/speakers/luis_landa.png",
+      "speaker_image": "./speakers/luis_landa.png",
       "speaker_name": "Luis Landa Girón",
       "speaker_desc": "SAFe Scrum Master",
       "track": "web"
@@ -138,7 +138,7 @@
       "session_total_time": "30 Mins",
       "session_title": "BUENAS Y MALAS PRÁCTICAS EN EL DESARROLLO DE SOFTWARE",
       "session_desc": "",
-      "speaker_image": "/public/speakers/fahed_hermoza.png",
+      "speaker_image": "./speakers/fahed_hermoza.png",
       "speaker_name": "Fahed Hermoza",
       "speaker_desc": "Senior Android Engineer",
       "track": "web"
