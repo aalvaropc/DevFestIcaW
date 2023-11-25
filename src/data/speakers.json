@@ -1,7 +1,7 @@
 {
   "speakers": [
     {
-      "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/joelIbaceta_M90i3fc.jpg",
+      "speaker_image": "./speakers/joel.jpg",
       "speaker_name": "Joel Ibaceta",
       "speaker_desc": "CTO at Kwema Inc.",
       "speaker_session": "",
@@ -122,7 +122,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "./speakers/mayra_rodriguez.jpg",
+      "speaker_image": "./speakers/mayra.jpg",
       "speaker_name": "Mayra Rodriguez",
       "speaker_desc": "Senior Software Engineer",
       "speaker_session": "",
