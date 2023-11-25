@@ -13,6 +13,7 @@ const TarjetasHorario = ({ cantidad = 0, datos, datos2, datos3 }) => {
           nombre={datos.nombre}
           oficio={datos.oficio}
           titulo={datos.titulo}
+          track={datos.track}
         ></CardsHorario>
       </div>
 
@@ -23,6 +24,7 @@ const TarjetasHorario = ({ cantidad = 0, datos, datos2, datos3 }) => {
             nombre={datos2.nombre}
             oficio={datos2.oficio}
             titulo={datos2.titulo}
+            track={datos.track}
           ></CardsHorario>
         </div>
       )}
@@ -33,6 +35,7 @@ const TarjetasHorario = ({ cantidad = 0, datos, datos2, datos3 }) => {
             nombre={datos3.nombre}
             oficio={datos3.oficio}
             titulo={datos3.titulo}
+            track={datos.track}
           ></CardsHorario>
         </div>
       )}

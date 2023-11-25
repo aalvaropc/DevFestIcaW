@@ -89,7 +89,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "https://media.licdn.com/dms/image/D4E03AQGkawU2qWEZ8g/profile-displayphoto-shrink_800_800/0/1669417945494?e=1706140800&v=beta&t=OV-VuR71YfBoAfrV5U1v9CKr4vvBjMgRB4XIYEd_FYg",
+      "speaker_image": "/public/speakers/luis_landa.png",
       "speaker_name": "Luis Landa Girón",
       "speaker_desc": "SAFe Scrum Master",
       "speaker_session": "",
@@ -100,7 +100,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "https://media.licdn.com/dms/image/C4E03AQGEb7rPFNmzxA/profile-displayphoto-shrink_800_800/0/1517018813962?e=1706140800&v=beta&t=O3IpWe4ORB2UIWqDLzUO_VQTXCJIznhId-Z7tLsy87w",
+      "speaker_image": "/public/speakers/bryan_castillo.png",
       "speaker_name": "Bryan Castillo",
       "speaker_desc": "Google Developer Expert",
       "speaker_session": "",
@@ -111,7 +111,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "https://media.licdn.com/dms/image/D4E03AQFgB4cVZeY59Q/profile-displayphoto-shrink_800_800/0/1685654244742?e=1706140800&v=beta&t=rSze9ARz7k090-BnpMHmwvHzLxfkPgfeqjX1YloheNo",
+      "speaker_image": "/public/speakers/fahed_hermoza.png",
       "speaker_name": "Fahed Hermoza",
       "speaker_desc": "Senior Android Engineer",
       "speaker_session": "",
@@ -120,7 +120,17 @@
       "linkedin_url": "https://www.linkedin.com/in/fahedhermoza/",
       "twitter_url": "",
       "modality": "in person"
+    },
+    {
+      "speaker_image": "/public/speakers/mayra_rodriguez.jpg",
+      "speaker_name": "Mayra Rodriguez",
+      "speaker_desc": "Senior Software Engineer",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "https://www.linkedin.com/in/mayrascript/",
+      "twitter_url": "",
+      "modality": "in person"
     }
-    
   ]
 }

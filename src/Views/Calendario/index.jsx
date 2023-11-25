@@ -5,15 +5,15 @@ import calendarioData from "../../data/sessions.json"; // Asegúrate de proporci
 
 const Calendario = () => {
   const transformedSessions = calendarioData.sessions.map((session) => {
-    // Aquí realizas la transformación de cada sesión
+    
     const inicio = session.session_start_time;
     const final = `${session.session_total_time}`;
     const imagen = session.speaker_image;
     const nombre = session.speaker_name;
     const oficio = session.speaker_desc;
     const titulo = session.session_title;
-
-    // Devuelves la sesión transformada en la estructura deseada
+    const track = session.track; 
+    
     return {
       inicio,
       final,
@@ -21,6 +21,7 @@ const Calendario = () => {
       nombre,
       oficio,
       titulo,
+      track,
     };
   });
 
