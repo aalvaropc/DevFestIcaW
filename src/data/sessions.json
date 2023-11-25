@@ -6,7 +6,7 @@
       "session_total_time": "30 Mins",
       "session_title": "",
       "session_desc": "",
-      "speaker_image": "/public/calendar/introduccion.png",
+      "speaker_image": "./calendar/introduccion.png",
       "speaker_name": "BIENVENIDA",
       "speaker_desc": "",
       "track": "free-time"
@@ -39,7 +39,7 @@
       "session_total_time": "20 Mins",
       "session_title": "",
       "session_desc": "",
-      "speaker_image": "/public/calendar/dinamica-de-grupo.png",
+      "speaker_image": "./calendar/dinamica-de-grupo.png",
       "speaker_name": "DINÁMICA",
       "speaker_desc": "",
       "track": "free-time"
@@ -83,7 +83,7 @@
       "session_total_time": "60 Mins",
       "session_title": "",
       "session_desc": "",
-      "speaker_image": "/public/calendar/hora-de-cafe.png",
+      "speaker_image": "./calendar/hora-de-cafe.png",
       "speaker_name": "BREAK",
       "speaker_desc": "",
       "track": "free-time"
@@ -127,7 +127,7 @@
       "session_total_time": "20 Mins",
       "session_title": "",
       "session_desc": "",
-      "speaker_image": "/public/calendar/amigo.png",
+      "speaker_image": "./calendar/humano.png",
       "speaker_name": "BREAK Y DINÁMICA",
       "speaker_desc": "",
       "track": "free-time"
@@ -160,7 +160,7 @@
       "session_total_time": "5:20PM",
       "session_title": "",
       "session_desc": "",
-      "speaker_image": "/public/calendar/humano.png",
+      "speaker_image": "./calendar/amigo.png",
       "speaker_name": "CLAUSURA",
       "speaker_desc": "",
       "track": "free-time"

@@ -89,7 +89,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "../../public/speakers/luis_landa.png",
+      "speaker_image": "./speakers/luis_landa.png",
       "speaker_name": "Luis Landa Girón",
       "speaker_desc": "SAFe Scrum Master",
       "speaker_session": "",
@@ -100,7 +100,7 @@
       "modality": "in person"
     },
     {
-      "speaker_image": "/public/speakers/bryan_castillo.png",
+      "speaker_image": "./speakers/bryan_castillo.png",
       "speaker_name": "Bryan Castillo",
       "speaker_desc": "Google Developer Expert",
       "speaker_session": "",
