@@ -19,7 +19,7 @@
       "session_desc": "",
       "speaker_image": "https://cache.sessionize.com/image/f255-400o400o2-EHuxpTeYPxcChbJtGkUbqM.jpg",
       "speaker_name": "Vanessa Aristizábal",
-      "speaker_desc": "Frontend Developer",
+      "speaker_desc": "Frontend Developer - Colombia",
       "track": "web"
     },
     {
@@ -30,7 +30,7 @@
       "session_desc": "",
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/bruno%20aybar.jpg",
       "speaker_name": "Bruno Aybar",
-      "speaker_desc": "Senior Software Engineer",
+      "speaker_desc": "Senior Software Engineer - Perú",
       "track": "web"
     },
     {
@@ -52,7 +52,7 @@
       "session_desc": "",
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/IMG_02%20-%20Gustavo%20Liz%C3%A1rraga.JPG",
       "speaker_name": "Gustavo Lizárraga",
-      "speaker_desc": "Mobile Software Engineer",
+      "speaker_desc": "Mobile Software Engineer - Bolivia",
       "track": "mobile"
     },
     {
@@ -63,7 +63,7 @@
       "session_desc": "",
       "speaker_image": "https://img-b.udemycdn.com/user/200_H/26947678_bdf7_3.jpg",
       "speaker_name": "Bezael Pérez",
-      "speaker_desc": "Software Development Specialist Angular",
+      "speaker_desc": "Software Development Specialist Angular - España",
       "track": "web"
     },
     {
@@ -74,7 +74,7 @@
       "session_desc": "",
       "speaker_image": "./speakers/luis_landa.png",
       "speaker_name": "Luis Landa Girón",
-      "speaker_desc": "SAFe Scrum Master",
+      "speaker_desc": "SAFe Scrum Master - Perú",
       "track": "web"
     },
     {
@@ -96,7 +96,7 @@
       "session_desc": "",
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/germanCayo.jpg",
       "speaker_name": "German Cayo",
-      "speaker_desc": "Presidente Capítulo Industrial y Sistemas - CD Ica",
+      "speaker_desc": "Presidente Capítulo Industrial y Sistemas - CD Ica - Perú",
       "track": "datos"
     },
     {
@@ -107,7 +107,7 @@
       "session_desc": "",
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/carlo-huaman.jpg",
       "speaker_name": "Carlo Huamán",
-      "speaker_desc": "Arquitecto Mobile",
+      "speaker_desc": "Arquitecto Mobile - Perú",
       "track": "mobile"
     },
     {
@@ -118,7 +118,7 @@
       "session_desc": "",
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/damian.jpg",
       "speaker_name": "Damian Sire",
-      "speaker_desc": "Freelance Senior Developer",
+      "speaker_desc": "Freelance Senior Developer - Uruguay",
       "track": "web"
     },
     {
@@ -140,7 +140,7 @@
       "session_desc": "",
       "speaker_image": "./speakers/fahed_hermoza.png",
       "speaker_name": "Fahed Hermoza",
-      "speaker_desc": "Senior Android Engineer",
+      "speaker_desc": "Senior Android Engineer - Perú",
       "track": "web"
     },
     {
@@ -151,7 +151,7 @@
       "session_desc": "",
       "speaker_image": "./speakers/joel.jpg",
       "speaker_name": "Joel Ibaceta",
-      "speaker_desc": "CTO at Kwema Inc.",
+      "speaker_desc": "CTO at Kwema Inc. - Perú",
       "track": "web"
     },
     {
@@ -162,7 +162,7 @@
       "session_desc": "",
       "speaker_image": "./speakers/jesus.jpg",
       "speaker_name": "Jesús Peña Mesías",
-      "speaker_desc": "Senior Software Engineer at Google",
+      "speaker_desc": "Senior Software Engineer at Google - Reino Unido",
       "track": "web"
     },
     {
