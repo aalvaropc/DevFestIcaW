@@ -149,7 +149,7 @@
       "session_total_time": "30 Mins",
       "session_title": "AMPLIANDO EL ÉXITO: LECCIONES APRENDIDAS AL SER PARTE DEL PROGRAMA GOOGLE FOR STARTUPS",
       "session_desc": "",
-      "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/joelIbaceta_M90i3fc.jpg",
+      "speaker_image": "./speakers/joel.jpg",
       "speaker_name": "Joel Ibaceta",
       "speaker_desc": "CTO at Kwema Inc.",
       "track": "web"
