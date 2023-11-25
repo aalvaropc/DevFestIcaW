@@ -143,7 +143,7 @@
       "speaker_desc": "Senior Android Engineer",
       "track": "web"
     },
-        {
+    {
       "session_id": "14",
       "session_start_time": "4:20 PM",
       "session_total_time": "30 Mins",
@@ -157,7 +157,18 @@
     {
       "session_id": "15",
       "session_start_time": "4:50 PM",
-      "session_total_time": "5:20PM",
+      "session_total_time": "30 Mins",
+      "session_title": "Jesús Peña Mesias - Google Francia",
+      "session_desc": "",
+      "speaker_image": "./speakers/jesus.jpg",
+      "speaker_name": "Jesús Peña Mesías",
+      "speaker_desc": "Senior Software Engineer at Google",
+      "track": "web"
+    },
+    {
+      "session_id": "16",
+      "session_start_time": "5:20 PM",
+      "session_total_time": "5:50PM",
       "session_title": "",
       "session_desc": "",
       "speaker_image": "./calendar/amigo.png",
