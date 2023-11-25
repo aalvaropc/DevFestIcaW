@@ -2,6 +2,7 @@ import "./CardSpeaker.css";
 import { MdPlace } from "react-icons/md";
 import { BiSolidBeenHere } from "react-icons/bi";
 import { FaLaptopCode } from "react-icons/fa";
+import { FaGoogle } from "react-icons/fa";
 
 const CardSpeaker = ({ speaker, imagen, speaker_desc, modality }) => {
   return (
@@ -16,9 +17,9 @@ const CardSpeaker = ({ speaker, imagen, speaker_desc, modality }) => {
         </div>
         <span className="cardspeaker__container__imagen__icon">
           {modality == "remote" ? (
-            <FaLaptopCode color="white"></FaLaptopCode>
+            <FaGoogle color="white"></FaGoogle>
           ) : (
-            <MdPlace color="white"></MdPlace>
+            <FaGoogle color="white"></FaGoogle>
           )}
         </span>
       </div>

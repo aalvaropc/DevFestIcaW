@@ -131,6 +131,17 @@
       "linkedin_url": "https://www.linkedin.com/in/mayrascript/",
       "twitter_url": "",
       "modality": "in person"
+    },
+    {
+      "speaker_image": "./speakers/jesus.jpg",
+      "speaker_name": "Jesús Peña Mesías",
+      "speaker_desc": "Senior Software Engineer at Google",
+      "speaker_session": "",
+      "fb_url": "",
+      "github_url": "",
+      "linkedin_url": "",
+      "twitter_url": "",
+      "modality": "in person"
     }
   ]
 }
