@@ -13,8 +13,8 @@
     },
     {
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/damian.jpg",
-      "speaker_name": "Damian Sire",
-      "speaker_desc": "Freelance Senior Developer",
+      "speaker_name": "Damián Siré",
+      "speaker_desc": "Senior Developer",
       "speaker_session": "",
       "fb_url": "None",
       "github_url": "https://github.com/damiansire",
@@ -25,7 +25,7 @@
     {
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/bruno%20aybar.jpg",
       "speaker_name": "Bruno Aybar Guerrero",
-      "speaker_desc": "Senior Software Engineer",
+      "speaker_desc": "Senior Software Engineer at Shopify",
       "speaker_session": "",
       "fb_url": "None",
       "github_url": "https://github.com/Bruno125",
@@ -36,7 +36,7 @@
     {
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/IMG_02%20-%20Gustavo%20Liz%C3%A1rraga.JPG",
       "speaker_name": "Gustavo Lizárraga",
-      "speaker_desc": "Mobile Software Engineer",
+      "speaker_desc": "Github Campus Expert",
       "speaker_session": "",
       "fb_url": "none",
       "github_url": "https://github.com/lizarragadev",
@@ -58,7 +58,7 @@
     {
       "speaker_image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/events/carlo-huaman.jpg",
       "speaker_name": "Carlo Huamán",
-      "speaker_desc": "Arquitecto Mobile",
+      "speaker_desc": "Google Developer Expert",
       "speaker_session": "",
       "fb_url": "None",
       "github_url": "None",
@@ -69,7 +69,7 @@
     {
       "speaker_image": "https://cache.sessionize.com/image/f255-400o400o2-EHuxpTeYPxcChbJtGkUbqM.jpg",
       "speaker_name": "Vanessa Aristizábal",
-      "speaker_desc": "Frontend Developer",
+      "speaker_desc": "Google Developer Expert",
       "speaker_session": "",
       "fb_url": "None",
       "github_url": "https://github.com/vanessamarely",
@@ -80,7 +80,7 @@
     {
       "speaker_image": "https://img-b.udemycdn.com/user/200_H/26947678_bdf7_3.jpg",
       "speaker_name": "Bezael Pérez",
-      "speaker_desc": "Software Development Specialist Angular",
+      "speaker_desc": "Google Developer Expert",
       "speaker_session": "",
       "fb_url": "https://www.facebook.com/dominicodee/",
       "github_url": "https://github.com/bezael",
@@ -91,7 +91,7 @@
     {
       "speaker_image": "./speakers/luis_landa.png",
       "speaker_name": "Luis Landa Girón",
-      "speaker_desc": "SAFe Scrum Master",
+      "speaker_desc": "SAFe Scrum Master at Telefónica",
       "speaker_session": "",
       "fb_url": "",
       "github_url": "",
@@ -113,7 +113,7 @@
     {
       "speaker_image": "./speakers/fahed_hermoza.png",
       "speaker_name": "Fahed Hermoza",
-      "speaker_desc": "Senior Android Engineer",
+      "speaker_desc": "Senior Android Engineer at NTT Data",
       "speaker_session": "",
       "fb_url": "",
       "github_url": "",
@@ -124,7 +124,7 @@
     {
       "speaker_image": "./speakers/mayra.jpg",
       "speaker_name": "Mayra Rodriguez",
-      "speaker_desc": "Senior Software Engineer",
+      "speaker_desc": "Google Developer Expert",
       "speaker_session": "",
       "fb_url": "",
       "github_url": "",
