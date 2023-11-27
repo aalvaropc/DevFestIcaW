@@ -4,6 +4,7 @@
   position: relative;
   margin: auto;
   margin-top: 13rem;
+  /* margin-left: 10rem; */
 }
 .banner__title {
   font-size: 10rem;
@@ -37,6 +38,8 @@
   left: 0;
   width: 100%;
   height: 100%;
+
+  
 }
 .banner__buttons__item--second {
   position: absolute;
